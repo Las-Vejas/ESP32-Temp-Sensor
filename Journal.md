@@ -16,5 +16,24 @@ I had the bright idea to add an oled display to show the temperature in real tim
 Finished PCB and schematic.
 
 
+### PCB front
+
+<p align="center">
+<img src="screenshots/scr-pcb-front.png" alt="PCB front" width="500">
+</p>
+
+### PCB back
+
+<p align="center">
+<img src="screenshots/scr-pcb-back.png" alt="PCB back" width="500">
+</p>
+
+### PCB
+
+<p align="center">
+<img src="screenshots/scr-pcb.png" alt="Full PCB" width="500">
+</p>
+
+
 
 # Total time: 2hrs
